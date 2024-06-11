@@ -36,7 +36,8 @@ A full-stack JavaScript developer constantly exploring new technologies. 🚀 Al
 </td></tr></tbody></table>   
 <br>  
 <br>
-<div>
+<h2 id="github-stats">Github Stats 📉</h2>
+<div align="center" style="display: flex;justify-content: center;align-items: center; flex-direction:column;width:100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman20212&amp;hide_border=true&amp;layout=compact" align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=aman20212&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" align="center">
 </div><br><br>
