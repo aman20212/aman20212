@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=1000&background=64646400&random=false&width=435&lines=Hi!+Welcome+to+my+GitHub+Profile.+;+My+Name+is+Aman+Singh.+;I+am+a+Full+Stack+JavaScript+Developer.)](https://git.io/typing-svg)
 # 💫 About Me:
 
-a full-stack JavaScript developer constantly exploring new technologies. 🚀 Always hustling, learning, and open to innovative ideas and collaborations. Let's build something amazing together! 👨‍💻 🚀
+A full-stack JavaScript developer constantly exploring new technologies. 🚀 Always hustling, learning, and open to innovative ideas and collaborations. Let's build something amazing together! 👨‍💻 🚀
 
 🔭 **I’m currently working on:**  <br>Optimizing the performance and scalability of ecommerce web applications utilizing Shopify's backend and Vue.js for the frontend.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>Shopify Liquid Framework and Vue.js<br><br>💬 **Ask me about**  <br>JavaScript, TypeScript, React, Angular, Node.js, Express, MongoDB.<br><br>
 
@@ -15,7 +15,8 @@ a full-stack JavaScript developer constantly exploring new technologies. 🚀 Al
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman20212&amp;hide_border=true&amp;layout=compact" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=aman20212&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50">  
 </div>
 </td><td valign="top" width="33%">
