@@ -1,18 +1,10 @@
-  <div align="center">
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% ">
-</div>  
- <br>
-<h1 id="im-pulkit-gupta-a-full-stack-developer"><div align="center">👋 Hey there! I'm Aman Singh, a full-stack JavaScript developer constantly exploring new technologies. 🚀 Always hustling, learning, and open to innovative ideas and collaborations. Let's build something amazing together! 👨‍💻 🚀</div></h1>
-  <br>
-<ul>
-<li>
-<p>🔭 I’m currently working on Skills:</p>
-<li>React | Vue | Node </li>
-</li>
-<li>
-<p>❓ Ask me about anything related to MERN stack and related technologies</p>
-</li>
-</ul>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&pause=1000&background=64646400&random=false&width=435&lines=Hi!+Welcome+to+my+GitHub+Profile.+;+My+Name+is+Aman+Singh.+;I+am+a+Full+Stack+JavaScript+Developer.)](https://git.io/typing-svg)
+# 💫 About Me:
+
+a full-stack JavaScript developer constantly exploring new technologies. 🚀 Always hustling, learning, and open to innovative ideas and collaborations. Let's build something amazing together! 👨‍💻 🚀
+
+🔭 **I’m currently working on:**  <br>Optimizing the performance and scalability of ecommerce web applications utilizing Shopify's backend and Vue.js for the frontend.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack/Frontend/Backend projects<br><br>🌱 **I’m currently learning:**  <br>Shopify Liquid Framework and Vue.js<br><br>💬 **Ask me about**  <br>JavaScript, TypeScript, React, Angular, Node.js, Express, MongoDB.<br><br>
+
 <br>  
 <h2 id="my-skill-set">My Skill Set 👩‍💻</h2>
 <table><tbody><tr><td valign="top" width="33%">
@@ -62,15 +54,7 @@
 </div>  
 <br>
 <br>  
-<h2 id="github-stats">Github Stats 📉</h2>
-<div align="center" style="display: flex;justify-content: center;align-items: center; flex-direction:column;width:100%">
-<img src="https://github-readme-stats.vercel.app/api?username=aman20212&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" align="center">
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman20212&amp;hide_border=true&amp;layout=compact" align="left">  
-</div>
-<br>  
 <br>  
 <hr>
 <p>Credit: <a href="https://github.com/aman20212/">aman20212</a></p>
-<p>Last Edited on: 11/06/2024</p> 
+<p>Last Edited on: 11/06/2024</p>
