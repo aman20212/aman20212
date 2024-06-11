@@ -6,7 +6,8 @@
   <br>
 <ul>
 <li>
-<p>🔭 I’m currently working on Skills</p>
+<p>🔭 I’m currently working on Skills:</p>
+<li>React | Vue | Node </li>
 </li>
 <li>
 <p>❓ Ask me about anything related to MERN stack and related technologies</p>
