@@ -35,12 +35,7 @@ A full-stack JavaScript developer constantly exploring new technologies. 🚀 Al
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
 </div>
-</td></tr></tbody></table>  
-<br>  
-<br>
-<div align="center">
-<img src="https://bloggingcoder.com/images/categories/mern.jpg" align="center" style="width: 100%; height:70% ">
-</div>  
+</td></tr></tbody></table>   
 <br>  
 <br>
 <h2 id="connect-with-me">Connect with me 🚀</h2>
